@@ -1,8 +1,8 @@
-# Olá, eu sou Fábio Moretão! 👋
+# Olá, eu sou Fábio Moretão! 👋😃
 
 - 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 - 💻 **Desenvolvendo habilidades em tecnologia, programação e soluções digitais**
-- 🚀 **Em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos**
+- 🚀 **Sempre em busca de desafios que impulsionem meu crescimento**
 - 🔧 **Habilidades em desenvolvimento de software, resolução de problemas e trabalho em equipe**
 - 🌟 **Foco em entregar resultados de qualidade e contribuir para projetos inovadores**
 
