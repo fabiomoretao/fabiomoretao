@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Sou estudante de ADS na FATEC-Ourinhos, com experiência em suporte técnico. Tenho interesse em criar soluções eficientes e escaláveis, utilizando boas práticas de desenvolvimento. Aprendo novas tecnologias com facilidade e aplico abordagens criativas para resolver desafios complexos. Com perfil proativo e colaborativo, busco contribuir para ambientes inovadores e orientados a resultados.
+Sou estudante de ADS na FATEC-Ourinhos, com experiência em suporte técnico. Tenho interesse em criar soluções eficientes e escaláveis, utilizando boas práticas de desenvolvimento. Aprendo novas tecnologias com facilidade e aplico abordagens criativas para resolver desafios complexos. Sou proativo e colaborativo, busco contribuir para ambientes inovadores e orientados a resultados.
 
 - 🌱 Atualmente estou aprendendo: **Desenvolvimento Web**.
 - 🔭 Estou trabalhando em: Projetos pessoais para aprimorar minhas habilidades.
@@ -29,9 +29,9 @@ Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiomoretao&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomoretao&layout=compact&theme=radical)
 
 ---
 
@@ -39,20 +39,16 @@ Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado
 
 Aqui estão alguns dos meus projetos favoritos:
 
-- **[Nome do Projeto 1](https://github.com/seu-usuario/nome-do-repositorio)** - Breve descrição do projeto.
-- **[Nome do Projeto 2](https://github.com/seu-usuario/nome-do-repositorio)** - Breve descrição do projeto.
-- **[Nome do Projeto 3](https://github.com/seu-usuario/nome-do-repositorio)** - Breve descrição do projeto.
-
+- **[Nome do Projeto 1](https://github.com/fabiomoretao/la-braza-hamburgueria)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada la braza. As tecnlogias que estou usando nesse projeto são HTML, CSS e Javascript
+  
 ---
 
 ## 🌐 Conecte-se Comigo
 
 Vamos trocar ideias e colaborar! Você pode me encontrar em:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [GitHub](https://github.com/seu-usuario)
-- [Twitter](https://twitter.com/seu-perfil) (se tiver)
-- [Portfólio](https://seu-site.com) (se tiver)
+- [LinkedIn](https://www.linkedin.com/in/fábio-josé-moretão-de-souza)
+- [GitHub](https://github.com/fabiomoretao)
 
 ---
 
@@ -62,5 +58,5 @@ Vamos trocar ideias e colaborar! Você pode me encontrar em:
 
 ---
 
-Feito com ❤️ por [Seu Nome]  
+Feito com ❤️ por Fábio  
 ✨ Obrigado por visitar meu perfil!
