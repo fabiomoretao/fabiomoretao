@@ -39,7 +39,7 @@ Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado
 
 Aqui estão alguns dos meus projetos favoritos:
 
-- **[Nome do Projeto 1](https://github.com/fabiomoretao/la-braza-hamburgueria)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada la braza. As tecnlogias que estou usando nesse projeto são HTML, CSS e Javascript
+- **[O Celeiro](https://github.com/fabiomoretao/la-braza-hamburgueria)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada "O Celeiro". As tecnlogias que estou usando nesse projeto são HTML, CSS e Javascript
   
 ---
 
