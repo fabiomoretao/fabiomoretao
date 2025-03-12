@@ -1,8 +1,10 @@
 # Olá, eu sou Fábio Moretão! 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 **Apaixonado por tecnologia e programação**  
-🚀 **Em busca de novos desafios e aprendizados**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
+💻 **Desenvolvendo habilidades em tecnologia, programação e soluções digitais**
+🚀 **Em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos**
+🔧 **Habilidades em desenvolvimento de software, resolução de problemas e trabalho em equipe**
+🌟 **Foco em entregar resultados de qualidade e contribuir para projetos inovadores**
 
 ---
 
@@ -39,7 +41,7 @@ Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado
 
 Aqui estão alguns dos meus projetos favoritos:
 
-- **[O Celeiro](https://github.com/fabiomoretao/la-braza-hamburgueria)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada "O Celeiro". As tecnlogias que estou usando nesse projeto são HTML, CSS e Javascript
+- **[Chapa Velha](https://github.com/fabiomoretao/chapa-velha)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada "Chapa Velha". As tecnlogias que estou usando nesse projeto até o momento são HTML, CSS e Javascript
   
 ---
 
@@ -52,11 +54,7 @@ Vamos trocar ideias e colaborar! Você pode me encontrar em:
 
 ---
 
-## 📌 Frase Motivacional
-
-> "A persistência é o caminho do êxito." – Charles Chaplin
-
----
+> "Somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito." – Aristóteles
 
 Feito com ❤️ por Fábio  
 ✨ Obrigado por visitar meu perfil!
