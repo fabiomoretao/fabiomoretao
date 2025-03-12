@@ -29,19 +29,9 @@ Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projeto Destacado:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiomoretao&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomoretao&layout=compact&theme=radical)
-
----
-
-## 🚀 Projetos Destacados
-
-Aqui estão alguns dos meus projetos favoritos:
-
-- **[Chapa Velha](https://github.com/fabiomoretao/chapa-velha)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada "Chapa Velha". As tecnlogias que estou usando nesse projeto até o momento são HTML, CSS e Javascript
+- **[Chapa Velha](https://github.com/fabiomoretao/chapa-velha)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria ficticia chamada "Chapa Velha". As tecnlogias que estou usando nesse projeto até o momento são HTML, CSS e Javascript 
   
 ---
 
