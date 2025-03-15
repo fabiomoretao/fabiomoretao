@@ -16,7 +16,6 @@ Sou estudante de ADS na FATEC-Ourinhos, com experiência em suporte técnico. Te
 
 - 🌱 Atualmente estou aprendendo: **Desenvolvimento Web**.
 - 🔭 Estou trabalhando em: Projetos pessoais para aprimorar minhas habilidades.
-- 📫 Como me encontrar: [fabiojosemoretaodesouza@gmail.com](mailto:fabiojosemoretaodesouza@gmail.com)
 
 ---
 
