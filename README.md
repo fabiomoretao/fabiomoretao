@@ -55,6 +55,9 @@ Vamos trocar ideias e colaborar! Você pode me encontrar em:
   <a href="https://wa.me/5514997921947" target="_blank">
     <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+    <a href="mailto:fabiojosemoretaodesouza@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ---
