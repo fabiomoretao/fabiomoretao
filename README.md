@@ -37,12 +37,6 @@ Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado
 
 ---
 
-## 🚀 Projeto Destacado:
-
-- **[Chapa Velha](https://github.com/fabiomoretao/chapa-velha)** - Esse é o meu primeiro projeto, fazendo um site para uma hamburgueria fictícia chamada "Chapa Velha". As tecnologias que estou usando nesse projeto até o momento são HTML, CSS e Javascript.
-
----
-
 ## 🌐 Conecte-se Comigo
 
 Vamos trocar ideias e colaborar! Você pode me encontrar em:
