@@ -1,61 +1,48 @@
-# Olá, eu sou Fábio Moretão!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">😆
+# Hi, I'm Fábio Moretão 👋
 
-<img src="https://komarev.com/ghpvc/?username=fabiomoretao&color=yellow" alt="Profile views" /> 
+### Software Development Intern | Full-Stack Developer
 
-- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
-- 💻 **Desenvolvendo habilidades em tecnologia, programação e soluções digitais**
-- 🚀 **Sempre em busca de desafios que impulsionem meu crescimento**
-- 🔧 **Habilidades em desenvolvimento de software, resolução de problemas e trabalho em equipe**
-- 🌟 **Foco em entregar resultados de qualidade e contribuir para projetos inovadores**
+I'm a **Systems Analysis and Development** student at FATEC Ourinhos and currently work as a **Software Development Intern at Chiptronic Tecnologia Automotiva**, contributing to tracking and telematics solutions used in fleet management.
 
----
+My main focus is full-stack web development with **React.js, Next.js, Node.js and TypeScript**, working with relational databases such as **PostgreSQL and MySQL**.
 
-## Sobre Mim
+Before moving into software development, I worked in IT support, where I gained hands-on experience troubleshooting hardware, software and network-related issues.
 
-Sou estudante de ADS na FATEC-Ourinhos, com experiência em suporte técnico. Tenho interesse em criar soluções eficientes e escaláveis, utilizando boas práticas de desenvolvimento. Aprendo novas tecnologias com facilidade e aplico abordagens criativas para resolver desafios complexos. Sou proativo e colaborativo, busco contribuir para ambientes inovadores e orientados a resultados.
+## 💻 Tech Stack
 
-- 🌱 Atualmente estou aprendendo: **Desenvolvimento Web**.
-- 🔭 Estou trabalhando em: Projetos pessoais para aprimorar minhas habilidades.
+### Languages
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
-## 🛠️ Tecnologias e Ferramentas
+### Front-End
 
-Aqui estão algumas das tecnologias e ferramentas que tenho estudado e utilizado:
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-<div align="center"><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
+### Back-End & Databases
 
----
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-## 🌐 Conecte-se Comigo
+### Tools
 
-Vamos trocar ideias e colaborar! Você pode me encontrar em:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
-<div>
-  <a href="https://www.linkedin.com/in/fábio-josé-moretão-de-souza" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5514997921947" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-    <a href="mailto:fabiojosemoretaodesouza@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+## 🚀 Currently
 
----
+* Working on **full-stack software development**
+* Building experience with **React.js, Node.js and relational databases**
+* Expanding my knowledge of **software architecture and scalable application development**
+* Studying **Systems Analysis and Development at FATEC Ourinhos**
 
-> "Somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito." – Aristóteles
+## 📫 Contact
 
-Feito com ❤️ por Fábio  
-✨ Obrigado por visitar meu perfil!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio_Moretão-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fabiomoretao)
+[![Email](https://img.shields.io/badge/Email-fabiomoretao%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:fabiomoretao@gmail.com)
