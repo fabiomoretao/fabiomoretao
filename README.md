@@ -203,95 +203,13 @@ These are the main areas I'm currently working with or developing my knowledge i
 
 <!-- ========================================================= -->
 
-<!--                       TECHNOLOGY                          -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-### `✦ 03 / TECHNOLOGY ✦`
-
-# Tech Stack
-
-Technologies and tools I've used across professional, academic and personal projects.
-
-<br><br>
-
-### `// LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-
-<br><br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-<br><br><br>
-
-### `// FRONT-END`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
-
-<br><br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-<br><br><br>
-
-### `// BACK-END & DATABASES`
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" />
-
-<br><br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-<br><br><br>
-
-### `// CLOUD & SERVICES`
-
-<img src="https://skillicons.dev/icons?i=aws,supabase&theme=dark" />
-
-<br><br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
-![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge\&logo=supabase\&logoColor=3FCF8E)
-
-<br>
-
-<sub>Foundational experience</sub>
-
-<br><br><br>
-
-### `// TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-
-<br><br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
-
-</div>
-
----
-
-<!-- ========================================================= -->
-
 <!--                         EVOLUTION                         -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-### `✦ 04 / EVOLUTION ✦`
+### `✦ 03 / EVOLUTION ✦`
 
 # My Path So Far
 
@@ -352,7 +270,7 @@ My experience in technology started with IT support and gradually moved toward s
 
 <div align="center">
 
-### `✦ 05 / SELECTED WORK ✦`
+### `✦ 04 / SELECTED WORK ✦`
 
 # Featured Projects
 
@@ -419,7 +337,7 @@ Short description of the application and its purpose.
 
 <div align="center">
 
-### `✦ 06 / DEVELOPMENT LOG ✦`
+### `✦ 05 / DEVELOPMENT LOG ✦`
 
 # GitHub Activity
 
@@ -447,7 +365,7 @@ A quick overview of my public activity and repositories on GitHub.
 
 <div align="center">
 
-### `✦ 07 / CONTACT ✦`
+### `✦ 06 / CONTACT ✦`
 
 # Let's Connect
 
